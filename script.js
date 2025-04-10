@@ -4,7 +4,7 @@ function mostrarMensagem() {
       "Quero estar com você hoje, amanhã e sempre. 💍",
       "Cada batida do meu coração chama por você. 💓",
       "Sou tão grato por ter você comigo. 🌹",
-      "Com Amor, seu  'namorado', bb, totoso e seu margarina :) "
+      "Com Amor, seu  namorado, bb, totoso e seu margarina S2 "
     ];
     const msg = mensagens[Math.floor(Math.random() * mensagens.length)];
     const mensagemFinal = document.getElementById("mensagemFinal");
